@@ -1,0 +1,40 @@
+body {
+    background-color: #CDFADB;
+}
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+.input-field {
+    display: flex;
+}
+#search {
+    flex: 1;
+    padding: 20px;
+    font-size: 15px;
+    font-family: "Bitter", serif;
+
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.recept {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    padding: 5px;
+    font-family: "Bitter", serif;
+}
+a {
+    text-decoration: none;
+    font-family: "Bitter", serif;
+    font-size: 32px;
+    color: #3E3232;
+}
+
+h1 {
+    font-family: "Bitter", serif;
+    
+}
